@@ -1,0 +1,35 @@
+2015-03-30 * Opening Balance
+	Assets:Checking			$500
+	Equity
+
+2015-04-03 Funding
+	Assets:Checking			$20000
+	Assets:HELOC
+
+2015-04-03 (401) Doyle Coffin Architects
+	Expenses:Startup:Architect	$750
+	Assets:Checking
+
+
+2015-04-03 (403) Will Harrison
+	Expenses:Startup:Legal		$960
+	Assets:Checking
+
+2015-04-03 Funding
+	Assets:Checking			$50000
+	Assets:HELOC
+
+2015-04-04 Funding
+	Assets:Checking			$50000
+	Assets:HELOC
+
+2015-05-01 (402) Wayne Dimm Enterprises
+	Expenses:Startup:WDE		$25000
+	Assets:Checking
+
+
+2015-05-10 (402) Wayne Dimm Enterprises
+	Expenses:Startup:WDE		$30000
+	Assets:Checking
+
+
